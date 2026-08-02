@@ -1,0 +1,1 @@
+## Efetue o download do arquivo de test com as perguntas traduzidas a partir do repositório original no Hugging Face em: https://huggingface.co/datasets/Boakpe/spider-test-portuguese/tree/main
